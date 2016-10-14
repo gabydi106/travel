@@ -1,5 +1,12 @@
 # http://gabydi106.github.io/travel
-Travel log and documentation of my globe trotting adventures.
+
+
+### Travel log and documentation of my globe trotting adventures.
+
+When people rely on techology to remember for them, it can have a negative impact on how well they remember their experiences. Previous studies have suggested that reviewing old photos can help us remember, but only if we spend long enough doing it.
+
+**'In order to remember, we have to access and interact with the photos, rather than just amass them,' said Dr Henkel.**
+
 
 ### Screenshot
 

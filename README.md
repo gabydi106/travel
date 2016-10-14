@@ -14,4 +14,4 @@ When people rely on techology to remember for them, it can have a negative impac
 
 ### Disclaimer
 
-This blog claims no credit for images posted on this site unless otherwise noted. Images on this blog are copyright to its respectful owners. If there is an image appearing on this blog that belongs to you and do not wish for it appear on this site, please E-mail with a link to said image and it will be promptly removed.
+_This blog claims no credit for images posted on this site unless otherwise noted. Images on this blog are copyright to its respectful owners. If there is an image appearing on this blog that belongs to you and do not wish for it appear on this site, please E-mail with a link to said image and it will be promptly removed._
